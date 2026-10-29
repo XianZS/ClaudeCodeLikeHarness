@@ -1,2 +1,3 @@
 # ClaudeCodeLikeHarness
-模仿Claude实现
+
+模仿Claude实现。
